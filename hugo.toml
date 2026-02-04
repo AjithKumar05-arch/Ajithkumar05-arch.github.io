@@ -1,0 +1,5 @@
+baseURL = "https://AjithKumar05-arch.github.io/"
+languageCode = "en-us"
+title = "Ajith Kumar – Reflection Blog"
+theme = "PaperMod"
+publishDir = "docs"
