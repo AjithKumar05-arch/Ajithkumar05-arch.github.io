@@ -15,25 +15,7 @@
       <guid>http://localhost:1313/posts/my-first-blog/</guid>
       <description>&lt;h1 id=&#34;first-reflection-blog&#34;&gt;First Reflection Blog&lt;/h1&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This is a reflection blog where I will be reflecting back all those learinings that I had from start of the second semester. The name of the course that I have this semester is &lt;strong&gt;&amp;quot; Becoming a Reflective Information Scientists&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;what-i-learned&#34;&gt;What I Learned&lt;/h2&gt;
-&lt;p&gt;Explain the knowledge or skills gained.&lt;/p&gt;
-&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;
-&lt;p&gt;Describe difficulties or problems.&lt;/p&gt;
-&lt;h2 id=&#34;reflection&#34;&gt;Reflection&lt;/h2&gt;
-&lt;p&gt;Explain your thoughts and insights.&lt;/p&gt;
-&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;Explain what you will do next or what you learned overall.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introduction</title>
-      <link>http://localhost:1313/posts/introduction/</link>
-      <pubDate>Wed, 04 Feb 2026 11:53:09 +0530</pubDate>
-      <guid>http://localhost:1313/posts/introduction/</guid>
-      <description>&lt;p&gt;Hi, my name is &lt;strong&gt;Ajith Kumar&lt;/strong&gt;.&lt;br&gt;
-I am a student at &lt;strong&gt;Azim Premji University&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;This blog is my reflection journal where I will write about my classroom
-discussions, learning experiences, and learnings from this course.&lt;/p&gt;</description>
+&lt;p&gt;This is a reflection blog where I will be reflecting back on all those learinings that I had from start of the second semester. The name of the major course that I have this semester is &lt;em&gt;&amp;quot; Becoming a Reflective Information Scientists&amp;quot;&lt;/em&gt;. As the name suggests, we in this course deal with datas, informations and try to derive usful insights and take decisions based on it. By now we are not learning any programming language this semester but I think we now are trying to build the foundations on which all the programming languages and information science courses will be grounded. I am now at the mid of this semester. As I move ahead with this course I will update all my learnings and experiences in the coming reflection blog.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

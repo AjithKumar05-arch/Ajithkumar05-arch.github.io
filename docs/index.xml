@@ -6,6 +6,15 @@
     <description>Recent content on Ajith Kumar – Reflection Blog</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 12 Mar 2026 11:10:46 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Reflection-Blog</title>
+      <link>http://localhost:1313/posts/my-first-blog/</link>
+      <pubDate>Thu, 12 Mar 2026 11:10:46 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-first-blog/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is a reflection blog where I will be reflecting back on all those learinings that I had from start of the second semester. The name of the major course that I have this semester is &lt;em&gt;&amp;quot; Becoming a Reflective Information Scientists&amp;quot;&lt;/em&gt;. As the name suggests, we in this course deal with datas, informations and try to derive usful insights and take decisions based on it. By now we are not learning any programming language this semester but I think we now are trying to build the foundations on which all the programming languages and information science courses will be grounded. I am now at the mid of this semester. As I move ahead with this course I will update all my learnings and experiences in the coming reflection blog.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
